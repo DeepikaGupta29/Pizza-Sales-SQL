@@ -8,8 +8,8 @@ Includes order info, pizza types, sizes, and prices.
 
 ## Tools
 
-- SQL (e.g., PostgreSQL / MySQL)
-- DB tool: pgAdmin / MySQL Workbench / SQLiteStudio
+- SQL (MySQL)
+- DB tool: MySQL Workbench
 
 ## Key Insights
 
